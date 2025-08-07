@@ -1,0 +1,22 @@
+{
+  "name": "com.xacce.inputic",
+  "rootNamespace": "",
+  "references": [
+    "Unity.Entities",
+    "Unity.Collections",
+    "Unity.Entities.Hybrid",
+    "Unity.Mathematics",
+    "com.xacce.xaccebasicsystemgroups",
+    "Unity.InputSystem",
+    "com.xacce.autoid"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

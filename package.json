@@ -1,0 +1,16 @@
+﻿{
+  "displayName": "Inputic",
+  "description": "",
+  "dependencies": {
+    "com.unity.entities": "1.3.10",
+    "com.unity.inputsystem": "1.14.2",
+    "com.xacce.autoid": "0.0.1"
+  },
+  "name": "com.xacce.inputic",
+  "author": {
+    "name": "Xacce"
+  },
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "version": "0.0.1"
+}
