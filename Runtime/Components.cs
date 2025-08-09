@@ -30,6 +30,7 @@ namespace Inputic
             Hold = 1 << 3,
         }
 
+        public bool nothing => option == 0;
         public bool isDown => option == Options.Performed;
         public bool isUp => option == Options.Canceled;
         public bool isHold => option == Options.Hold;
